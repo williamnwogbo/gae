@@ -9,6 +9,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-          "william/gaemail": "1.*"
+         "php": ">=5.3.0"
     }
 }
