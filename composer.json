@@ -1,9 +1,8 @@
 {
     "name": "william/gaemail",
-     "description": "A short description of what your package does",
-   
-    "minimum-stability": "dev",
+    "description": "A short description of what your package does",
     "require": {
-         "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "ext-xdebug": "2.1"
     }
 }
