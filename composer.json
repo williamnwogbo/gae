@@ -9,6 +9,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-          "william/gaemail": "dev-master"
+          "william/gaemail": "1.*"
     }
 }
