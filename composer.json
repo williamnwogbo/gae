@@ -1,6 +1,8 @@
 {
-    "name": "williamnwogbo/gaemail",
+    "name": "cakephp/Mail",
     "description": "My first Composer project",
+    "type": "cakephp-plugin",
+    "keywords": ["cakephp", "Email"],
     "authors": [
         {
             "name": "Your Name",
