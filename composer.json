@@ -1,5 +1,5 @@
 {
-    "name": "test/gaemail",
+    "name": "gae/gaemail",
     "description": "My first Composer project",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "Email"],
@@ -17,7 +17,7 @@
 {
     "installer-paths":
     {
-        "/app/Plugin/DebugKit": ["cakephp/debug_kit"]
+        "/app/Plugin/gae": ["gae/gaemail"]
     }
 },
     "autoload": {
