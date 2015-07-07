@@ -1,5 +1,5 @@
 {
-    "name": "cakephp/Mail",
+    "name": "gaemail",
     "description": "My first Composer project",
     "type": "cakephp-plugin",
     "keywords": ["cakephp", "Email"],
