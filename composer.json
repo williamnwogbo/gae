@@ -17,7 +17,7 @@
 {
     "installer-paths":
     {
-        "app/Plugin/DebugKit": ["cakephp/debug_kit"]
+        "/app/Plugin/DebugKit": ["cakephp/debug_kit"]
     }
 },
     "autoload": {
